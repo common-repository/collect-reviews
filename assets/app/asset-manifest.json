@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c0c6bb5.css",
+    "main.js": "/static/js/main.1043f595.js",
+    "static/js/766.3abce4d7.chunk.js": "/static/js/766.3abce4d7.chunk.js",
+    "static/js/617.40e5a101.chunk.min.js": "/static/js/617.40e5a101.chunk.min.js",
+    "static/js/625.7d6328e8.chunk.min.js": "/static/js/625.7d6328e8.chunk.min.js",
+    "static/media/yelp-ask-review.jpg": "/static/media/yelp-ask-review.c20f0d90ef7944c45eac.jpg",
+    "static/media/facebook-ask-review.jpg": "/static/media/facebook-ask-review.ad514cdc23678cc859c6.jpg",
+    "static/media/tripadvisor-ask-review.jpg": "/static/media/tripadvisor-ask-review.b73f4bd92325c580153e.jpg",
+    "static/media/facebook-review-link.jpg": "/static/media/facebook-review-link.eb5d62f6e0d2c409c5ba.jpg",
+    "static/media/tripadvisor-review-link.jpg": "/static/media/tripadvisor-review-link.a45c99cf845c0606d0c0.jpg",
+    "static/media/google-ask-review.jpg": "/static/media/google-ask-review.39844ec5e3a9607803b6.jpg",
+    "static/media/yelp-review-link.jpg": "/static/media/yelp-review-link.401b81d5db3284347283.jpg",
+    "static/media/google-review-link.jpg": "/static/media/google-review-link.2b8fd2b948db818c93df.jpg",
+    "static/media/logo.svg": "/static/media/logo.9467dd11cc78f7be21da0aca89081594.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/617.40e5a101.chunk.min.js",
+    "static/css/main.9c0c6bb5.css",
+    "static/js/main.1043f595.js"
+  ]
+}
